@@ -12,14 +12,14 @@
 ## ⚡ About Me
 <div align="left">
     
-- 💼 **Forward Deployed Engineer @ [UnifyApps](https://www.unifyapps.com/)** — Bridging enterprise AI capabilities with real-world business problems, from rapid prototyping to production-ready solutions.
-- 🧠 **Enterprise AI & Agentic Systems** — Building AI-powered solutions that connect models, tools, APIs, enterprise data & workflows.
-- 🏗️ **Full-Stack & Systems Engineering** — Designing scalable applications, APIs, distributed services, and event-driven architectures.
-- 🚀 **Engineering Mindset** — Turning complex requirements into reliable products that deliver measurable business value.
-- 🌱 **Currently Exploring** — Agentic AI, advanced system design, distributed systems, and enterprise application architecture.
-- 💬 **Ask Me About** — LLM-powered applications, AI integrations, React/Next.js, Node.js, FastAPI, databases, APIs, and system design.
-- 📝 **Technical Writing** — Sharing ideas and engineering learnings on [Medium](https://medium.com/@ayush.blogs).
-- 📫 **Reach Me At** — ayush.jain@unifyapps.com
+- 💼 **Forward Deployed Engineer @ [UnifyApps](https://www.unifyapps.com/)**: Bridging enterprise AI capabilities with real-world business problems, from rapid prototyping to production-ready solutions.
+- 🧠 **Enterprise AI & Agentic Systems**: Building AI-powered solutions that connect models, tools, APIs, enterprise data & workflows.
+- 🏗️ **Full-Stack & Systems Engineering**: Designing scalable applications, APIs, distributed services, and event-driven architectures.
+- 🚀 **Engineering Mindset**: Turning complex requirements into reliable products that deliver measurable business value.
+- 🌱 **Currently Exploring**: Agentic AI, advanced system design, distributed systems, and enterprise application architecture.
+- 💬 **Ask Me About**: LLM-powered applications, AI integrations, React/Next.js, Node.js, FastAPI, databases, APIs, and system design.
+- 📝 **Technical Writing**: Sharing ideas and engineering learnings on [Medium](https://medium.com/@ayush.blogs).
+- 📫 **Reach Me At**: ayush.jain@unifyapps.com
 
 </div>
   
